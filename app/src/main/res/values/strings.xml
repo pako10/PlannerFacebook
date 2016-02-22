@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">PlannerLand</string>
+    <string name="facebook_app_id">898146353568539</string>
+
+    <string name="tv_user_login">User:</string>
+    <string name="et_user_login">PID or EMail</string>
+    <string name="tv_user_password">Password:</string>
+    <string name="et_user_password">Password</string>
+    <string name="btn_user_value_ok">Connect</string>
+    <string name="btn_user_value_cancel">Cancel</string>
+    <string name="tv_user_result">Resultado consulta</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="Bienvenida">Bienvenido a Planner Land</string>
+    <string name="Registrate">Registrate</string>
+    <string name="Iniciar">Iniciar Sesion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+
+    //REGISTRO STRINGS
+    <string name="genero">Genero</string>
+    <string-array name="country_a_ciudades_arrays">
+        <item>@array/mexico_city_arrays</item>
+    </string-array>
+    <string-array name="country_arrays">
+        <item>Porfavor seleccione su pais</item>
+        <item>Mexico</item>
+        <item>Argentina</item>
+        <item>Colombia</item>
+        <item>Panama</item>
+        <item>Brazil</item>
+    </string-array>
+
+    // String Minutos
+    <string-array name="minutos_arreglos">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+    </string-array>
+
+    <string-array name="mexico_city_arrays">
+        <item>Abasolo</item>
+        <item>Guanajuato</item>
+        <item>Irapuato</item>
+    </string-array>
+    <string-array name="argentina_city_arrays">
+        <item>Valverde</item>
+    </string-array>
+    <string-array name="colombia_city_arrays">
+        <item>Barranquila</item>
+    </string-array>
+    <string-array name="panama_city_arrays">
+        <item>Barranqui</item>
+    </string-array>
+    <string-array name="brazil_city_arrays">
+        <item>Barra</item>
+    </string-array>
+    <string-array name="gender_arrays">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string name="title_activity_calendario">CalendarioActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section4">Section 4</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    -->Registro string
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellido">Apellido(s)</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmPass">Confirma Contraseña</string>
+    <string name="terminos">Terminos y Condiciones</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_splash_main2">PlannerLand</string>
+
+    <!-- String para los textos -->
+    <string name="bienvenidos">Bienvenido</string>
+    <string name="title_activity_menu_main2">PlannerLand</string>
+    //STRINGS MENU
+    <string name="item_navigation_drawer_calendar">Calendario</string>
+    <string name="item_navigation_drawer_chat">Chat</string>
+    <string name="item_navigation_drawer_membership">Membresia</string>
+    <string name="item_navigation_drawer_habilidades">Habilidades</string>
+    <string name="item_navigation_drawer_publicidad">Publicidad</string>
+    <string name="item_navigation_drawer_conditionterms">Terminos y condiciones</string>
+    <string name="item_navigation_drawer_settings">Configuracion</string>
+    <string name="item_navigation_drawer_logout">Salir</string>
+
+    <string name="title_activity_terminos_condiciones">Terminos y Condiciones</string>
+
+
+    <!-- String para los Terminos y condiones de PlannerLand -->
+    <string name="terminos_condiciones">Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones
+    Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones
+    Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones
+    Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones
+    Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones Terminos y Condiciones</string>
+
+
+    //STRINGS CHAT Type your message here
+    //
+    <string name="messagehint">Escribe tu mensaje aqui</string>
+    <string name="friend">Friend Name</string>
+    <string-array name="friends">
+        <item>John</item>
+        <item>Paul</item>
+        <item>George</item>
+        <item>Ringo</item>
+    </string-array>
+    <string name="title_activity_message">Message</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_activity_chat_client">Chat</string>
+    <string name="title_activity_contacts">Contactos</string>
+    <string name="title_activity_search_view_main2">Barra Buscadora</string>
+    <string name="title_activity_search_menu">Buscar</string>
+    <string name="title_activity_sesrch">Busqueda</string>
+    <string name="busqueda">Ingrese Busqueda</string>
+    <string name="title_activity_doctor_scrolling">DoctorScrolling</string>
+    <string name="nombr">Nombre</string>
+    <string name="nombre_doctor">Panfilo Francisco</string>
+    <string name="pidd">Pid</string>
+    <string name="pid">Panfilo</string>
+    <string name="Habilidades">Habilidades</string>
+    <string name="habilidades">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
+        Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.
+        No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset",
+        las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.ate, pulvinar orci vel, blandit lacus. Nullam malesuada felis vel condimentum ultricies. Nulla rhoncus id velit sed venenatis. Cras id maximus urna, id lobortis quam. Nunc lobortis arcu hendrerit, tempus risus ut, consequat purus. Cras sed luctus sapien, eget ornare elit.
+
+Maecenas pulvinar, sem non porta ornare, velit augue porta felis, quis gravida massa enim id nibh. Donec massa nunc, cursus et ultrices eu, luctus ac nibh. Ut vestibulum vulputate purus, quis venenatis diam tempus viverra. Aliquam dictum ex lobortis purus sodales eleifend. Etiam id quam non ex molestie venenatis eget sed dui. Nulla sodales viverra imperdiet. Quisque vulputate sapien tortor, sit amet hendrerit ex tempor non. Donec laoreet lectus quam, id accumsan sapien placerat eget.
+
+Mauris scelerisque hendrerit augue, sed lobortis massa accumsan quis. Donec varius nulla sit amet leo malesuada eleifend. Nullam sed dui nisi. Quisque vel ipsum dignissim, pellentesque turpis vitae, molestie sem. Fusce finibus accumsan tellus, tempus finibus est vehicula eget. Curabitur eleifend luctus tincidunt. Pellentesque non viverra enim.
+
+Mauris aliquam orci in dui imperdiet feugiat. Phasellus sollicitudin libero non augue porta molestie. Cras egestas mollis sapien, eu commodo enim tincidunt nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi sagittis porta nulla, eu maximus nisi iaculis ac. Nullam id accumsan nisi. Integer iaculis condimentum ipsum in imperdiet. Mauris rutrum lorem id velit semper laoreet. Morbi hendrerit erat non dolor eleifend, at auctor dui euismod. Nullam vitae porta tellus. Pellentesque sed dolor dolor. Integer ultricies metus ex, quis feugiat nisl mollis sed. Mauris placerat ante dolor, ac lacinia ante vestibulum et. Aliquam ultricies diam eget consequat fringilla. Morbi a mauris at purus eleifend gravida. Duis venenatis fringilla nulla, ac porttitor turpis auctor eu.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus tincidunt, nibh eu interdum finibus, sapien dolor convallis lectus, at finibus turpis dui nec lectus. In ut vulputate risus, non sodales nunc. Sed eu ipsum lorem. Nam non tellus ut sapien egestas tincidunt. Nam consequat, sem at sollicitudin egestas, metus sapien ultricies ex, non maximus dui sapien ut nulla. Praesent varius eros massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Nullam in arcu tellus. Nulla eu nisi ac leo pretium mattis tempus condimentum massa. Pellentesque malesuada non mauris nec posuere. Fusce lacus diam, vestibulum tempus augue at, egestas pellentesque nibh. Sed rutrum leo at mauris ornare cursus. Quisque iaculis ante in eros eleifend, eget ultrices diam aliquet. Vivamus tristique neque orci, ac dictum arcu efficitur vestibulum. In ultrices ullamcorper purus vel pellentesque. Suspendisse sed eros dapibus, maximus felis et, vestibulum ligula. Nulla facilisi. Etiam fermentum nisi dolor, id molestie ipsum hendrerit a. Phasellus nisl elit, elementum eu aliquet posuere, facilisis vel ipsum. Donec suscipit nunc quis urna mattis elementum. Maecenas id sodales lorem, vitae lobortis sapien. Aliquam imperdiet tellus ut sollicitudin porttitor.
+
+Suspendisse dignissim nibh vehicula, scelerisque purus ut, bibendum ligula. Morbi tincidunt libero eget tortor molestie venenatis. Integer bibendum turpis vitae purus sollicitudin commodo. Duis imperdiet leo orci, ut dignissim erat tempus id. Nunc varius volutpat purus quis scelerisque. Vestibulum in tempus dolor, non pretium dui. Aliquam pellentesque venenatis augue vitae gravida.
+
+Nullam vel malesuada tortor. Nunc ac tellus vitae dui rhoncus venenatis in eu dolor. Cras ex neque, ornare vel gravida a, vulputate sed ante. Sed bibendum dignissim sagittis. Sed ipsum dui, maximus ac ex a, volutpat faucibus orci. Nam at nisl non dolor lobortis iaculis. Duis imperdiet augue ut dui blandit sollicitudin. Praesent nec placerat elit, vitae sollicitudin metus. Suspendisse porttitor ipsum eu tellus sodales, sed pharetra purus tempor. Nam id facilisis nibh, eget hendrerit risus.
+
+Phasellus vitae diam accumsan, vehicula orci vel, molestie ex. Aenean ullamcorper vulputate nisi ac sollicitudin. Aliquam est sapien, varius ac condimentum mattis, facilisis sed elit. Quisque fringilla eros ac imperdiet condimentum. Duis vel commodo nibh. Mauris sit amet posuere nulla. Nullam arcu nibh, sodales nec semper et, semper suscipit turpis. Aliquam vitae nisi in ex congue tempor vitae sit amet lectus. In ut ultricies ipsum. Suspendisse ultricies faucibus porttitor.
+
+Sed mattis aliquet justo eu fermentum. Quisque elementum eros id lobortis volutpat. Mauris consequat tincidunt felis a varius. Phasellus non magna sed sem tincidunt faucibus vitae quis diam. Fusce vitae lobortis ipsum, vestibulum volutpat lorem. Ut efficitur metus mauris, eu consequat justo placerat ac. Curabitur nec maximus justo. Proin facilisis sollicitudin luctus. Sed feugiat mi id dui ultricies porttitor. Donec vulputate blandit posuere. Ut vitae elit sed dui tristique tincidunt a vitae nunc.
+
+Integer eu est a lacus consectetur ultrices ut vel lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras nec risus arcu. Morbi augue metus, ornare sed bibendum quis, finibus in lacus. Praesent quis tortor cursus, consequat sem ut, cursus turpis. Quisque malesuada nibh magna, et tempus enim pulvinar quis. Quisque cursus diam lectus, nec cursus justo pulvinar a. Integer scelerisque mauris dictum sapien bibendum consequat. Nulla blandit rhoncus eleifend. Sed tincidunt tortor metus, non auctor sapien maximus non. Nullam euismod laoreet tortor, eget laoreet urna interdum eu. Suspendisse potenti. Nam et rutrum orci. Fusce eget sapien pharetra, lobortis lectus eget, lacinia nisi. Mauris eget ex ut quam sollicitudin consectetur.
+
+Proin laoreet magna non ultrices sagittis. Nulla ultricies tempor tortor, a blandit elit scelerisque vitae. Maecenas vel neque eleifend, suscipit ipsum a, iaculis massa. Nam interdum quam ac dapibus consectetur. Donec fermentum mi vitae neque pulvinar pulvinar. Praesent pulvinar orci a nisl vehicula, ut feugiat dolor malesuada. Vestibulum tempus, risus at interdum mollis, mi augue porta nibh, id vulputate lorem tortor ac erat. Fusce facilisis leo nisl, non egestas purus sagittis id. Proin ut imperdiet felis. Curabitur eros dolor, maximus at nisi ac, commodo tincidunt neque. Nam laoreet venenatis urna, et tristique massa viverra a. Nunc nisi purus, tincidunt et libero sed, rutrum luctus ante. Nulla vitae semper neque. Fusce pretium ex vitae nunc eleifend varius. Nulla eget felis velit.
+
+Cras consequat volutpat pharetra. Cras sit amet auctor elit. In eget euismod urna. Phasellus convallis libero at risus vestibulum, et pulvinar dolor porta. Nam nec semper sapien, rhoncus porttitor augue. Donec vitae malesuada erat. Ut venenatis mauris eu tellus eleifend malesuada. Nullam id lorem hendrerit, porta nunc ac, tristique erat. Integer eu tempor magna. Duis facilisis dolor interdum, maximus massa in, feugiat augue. Quisque eget volutpat erat.
+
+Suspendisse potenti. Nam tellus lectus, venenatis a dui at, euismod varius velit. Nullam ut pellentesque lacus, sed mattis magna. Donec eget ex rutrum, dictum leo at, suscipit velit. In in ante odio. Fusce elit erat, lacinia varius tincidunt id, mollis eget metus. Curabitur congue libero turpis, eget feugiat risus pharetra non. Duis ac finibus orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi vitae elit tempus nunc posuere porta vitae ac arcu. Etiam pellentesque sagittis mattis. Phasellus iaculis ex quis porta vehicula. Fusce quam leo, consequat sit amet nulla sit amet, lacinia pharetra felis. Phasellus placerat mi vel sapien imperdiet, eget tempor orci faucibus. Sed non turpis arcu.
+
+Nam nec ligula metus. In hendrerit quam id rhoncus blandit. Quisque eget magna tellus. Cras non viverra velit. Vestibulum quis est eget massa elementum hendrerit interdum quis nunc. Quisque interdum nibh id ante porttitor finibus. Duis egestas sapien erat, ac efficitur neque convallis ac. Morbi bibendum commodo elit volutpat placerat.
+
+Proin fringilla, orci ac luctus sollicitudin, sem eros scelerisque augue, rhoncus vehicula velit massa in enim. Duis lobortis nunc velit, vel vulputate nibh luctus in. Donec ex nulla, ultricies sit amet volutpat auctor, dignissim scelerisque erat. Cras dapibus a est in pretium. Sed fringilla leo non bibendum lobortis. In cursus sit amet orci vitae faucibus. Sed placerat libero neque, in varius lacus lacinia non. Quisque sed velit id est mattis consequat.</string>
+
+    <!-- String inicio -->
+    <string name="Busca">Busca</string>
+    <string name="Elige">Elige</string>
+    <string name="Agenda">Agenda</string>
+    <!-- String Cuadro de Dialogo -->
+    <string name="titulo_dialogo">PlannerLand</string>
+    <string name="mensaje_mapa">Por Favor debes de Estar Registrado o Logueado para ver la Localizacion"</string>
+    <string name="mensaje_telefono">Por Favor debes de Estar Registrado o Logueado para ver el Numero Telefonico"</string>
+    <string name="mensaje_cita">Por Favor debes de Estar Registrado o Logueado para realizar una Cita"</string>
+    <string name="entrar">Login</string>
+    <string name="registrar">Registar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="title_activity_splash">PlannerLand</string>
+    <string name="title_activity_login_activity_fb">LoginActivityFb</string>
+    <string name="title_activity_registro_activity_fb">RegistroActivityFb</string>
+
+
+</resources>
